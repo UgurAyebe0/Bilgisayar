@@ -1,0 +1,16 @@
+C:\Users\UĞUR\Desktop\Okul\Programlama\SayıSayma\SayıSayma\bin\Debug\SayıSayma.exe.config
+C:\Users\UĞUR\Desktop\Okul\Programlama\SayıSayma\SayıSayma\bin\Debug\SayıSayma.exe
+C:\Users\UĞUR\Desktop\Okul\Programlama\SayıSayma\SayıSayma\bin\Debug\SayıSayma.pdb
+C:\Users\UĞUR\Desktop\Okul\Programlama\SayıSayma\SayıSayma\obj\Debug\SayıSayma.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\Okul\Programlama\SayıSayma\SayıSayma\obj\Debug\SayıSayma.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\Okul\Programlama\SayıSayma\SayıSayma\obj\Debug\SayıSayma.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\Okul\Programlama\SayıSayma\SayıSayma\obj\Debug\SayıSayma.exe
+C:\Users\UĞUR\Desktop\Okul\Programlama\SayıSayma\SayıSayma\obj\Debug\SayıSayma.pdb
+C:\Users\UĞUR\Desktop\SayıSayma\SayıSayma\bin\Debug\SayıSayma.exe.config
+C:\Users\UĞUR\Desktop\SayıSayma\SayıSayma\bin\Debug\SayıSayma.exe
+C:\Users\UĞUR\Desktop\SayıSayma\SayıSayma\bin\Debug\SayıSayma.pdb
+C:\Users\UĞUR\Desktop\SayıSayma\SayıSayma\obj\Debug\SayıSayma.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\SayıSayma\SayıSayma\obj\Debug\SayıSayma.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\SayıSayma\SayıSayma\obj\Debug\SayıSayma.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\SayıSayma\SayıSayma\obj\Debug\SayıSayma.exe
+C:\Users\UĞUR\Desktop\SayıSayma\SayıSayma\obj\Debug\SayıSayma.pdb
