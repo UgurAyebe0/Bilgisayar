@@ -1,0 +1,16 @@
+C:\Users\UĞUR\Desktop\Visual denemelerim\Otopark Hesaplama\Otopark Hesaplama\bin\Debug\Otopark Hesaplama.exe.config
+C:\Users\UĞUR\Desktop\Visual denemelerim\Otopark Hesaplama\Otopark Hesaplama\bin\Debug\Otopark Hesaplama.exe
+C:\Users\UĞUR\Desktop\Visual denemelerim\Otopark Hesaplama\Otopark Hesaplama\bin\Debug\Otopark Hesaplama.pdb
+C:\Users\UĞUR\Desktop\Visual denemelerim\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\Visual denemelerim\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\Visual denemelerim\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\Visual denemelerim\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.exe
+C:\Users\UĞUR\Desktop\Visual denemelerim\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Otopark Hesaplama\Otopark Hesaplama\bin\Debug\Otopark Hesaplama.exe.config
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Otopark Hesaplama\Otopark Hesaplama\bin\Debug\Otopark Hesaplama.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Otopark Hesaplama\Otopark Hesaplama\bin\Debug\Otopark Hesaplama.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Otopark Hesaplama\Otopark Hesaplama\obj\Debug\Otopark Hesaplama.pdb
