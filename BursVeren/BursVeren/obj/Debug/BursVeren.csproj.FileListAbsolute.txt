@@ -14,3 +14,11 @@ C:\Users\UĞUR\Desktop\BursVeren\BursVeren\obj\Debug\BursVeren.csproj.SuggestedB
 C:\Users\UĞUR\Desktop\BursVeren\BursVeren\obj\Debug\BursVeren.csproj.CoreCompileInputs.cache
 C:\Users\UĞUR\Desktop\BursVeren\BursVeren\obj\Debug\BursVeren.exe
 C:\Users\UĞUR\Desktop\BursVeren\BursVeren\obj\Debug\BursVeren.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\BursVeren\BursVeren\bin\Debug\BursVeren.exe.config
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\BursVeren\BursVeren\bin\Debug\BursVeren.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\BursVeren\BursVeren\bin\Debug\BursVeren.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\BursVeren\BursVeren\obj\Debug\BursVeren.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\BursVeren\BursVeren\obj\Debug\BursVeren.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\BursVeren\BursVeren\obj\Debug\BursVeren.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\BursVeren\BursVeren\obj\Debug\BursVeren.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\BursVeren\BursVeren\obj\Debug\BursVeren.pdb

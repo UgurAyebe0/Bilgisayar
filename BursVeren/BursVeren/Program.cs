@@ -22,21 +22,26 @@ namespace BursVeren
             if (gelir < 3001 && basari <= 4)
             {
                 cevap = 1;
-                //Hata Ayıklama Console.WriteLine("1");
+            }
+            else
+            {
+                cevap = 4;
+            }
             if (gelir >= 5000 && gelir <= 6000 && basari >= 8 && basari <= 10)
             {
                 cevap = 2;
-                //Hata Ayıklama Console.WriteLine("2");
+            }
+            else
+            {
+                cevap = 4;
             }
             if (gelir > 3000 && gelir <= 5000 && basari >= 4 && basari <= 7)
             {
                 cevap = 3;
-                //Hata Ayıklama Console.WriteLine("3");
-            } } 
+            }
             else
             {
                 cevap = 4;
-                //Hata Ayıklama Console.WriteLine("4");
             }
             switch (cevap)
             { 
