@@ -16,15 +16,19 @@ namespace Art_Arda_Toplama
                 sayi1 = Convert.ToInt32(Console.ReadLine());
             Tekrar:
                 Console.WriteLine("Toplanacak sayıyı girin:");
+                Console.WriteLine("Döngüyü Bitirmek için klavyeden 83 girin:");
                 sayi2 = Convert.ToInt32(Console.ReadLine());
-                sayi1 = sayi1 + sayi2;
-                Console.WriteLine("Sayımız" + sayi1);
-                if (sayi1 == 83)
+                if (sayi2 == 83)
                     Console.WriteLine("Döngü Bitti.");
                 else
+                {
+                    sayi1 = sayi1 + sayi2;
+                    Console.WriteLine("Sayımız" + sayi1);
                     goto Tekrar;
+                }
             }
             Console.ReadKey();
         }
     }
 }
+

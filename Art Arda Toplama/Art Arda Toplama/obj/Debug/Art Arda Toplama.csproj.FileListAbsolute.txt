@@ -6,3 +6,11 @@ C:\Users\UĞUR\Desktop\Visual denemelerim\Art Arda Toplama\Art Arda Toplama\obj\
 C:\Users\UĞUR\Desktop\Visual denemelerim\Art Arda Toplama\Art Arda Toplama\obj\Debug\Art Arda Toplama.csproj.CoreCompileInputs.cache
 C:\Users\UĞUR\Desktop\Visual denemelerim\Art Arda Toplama\Art Arda Toplama\obj\Debug\Art Arda Toplama.exe
 C:\Users\UĞUR\Desktop\Visual denemelerim\Art Arda Toplama\Art Arda Toplama\obj\Debug\Art Arda Toplama.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Art Arda Toplama\Art Arda Toplama\obj\Debug\Art Arda Toplama.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Art Arda Toplama\Art Arda Toplama\obj\Debug\Art Arda Toplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Art Arda Toplama\Art Arda Toplama\obj\Debug\Art Arda Toplama.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Art Arda Toplama\Art Arda Toplama\obj\Debug\Art Arda Toplama.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Art Arda Toplama\Art Arda Toplama\obj\Debug\Art Arda Toplama.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Art Arda Toplama\Art Arda Toplama\bin\Debug\Art Arda Toplama.exe.config
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Art Arda Toplama\Art Arda Toplama\bin\Debug\Art Arda Toplama.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Art Arda Toplama\Art Arda Toplama\bin\Debug\Art Arda Toplama.pdb
