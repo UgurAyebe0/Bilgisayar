@@ -41,7 +41,12 @@ namespace ConsoleApp4
                     c = a / 24;
                     a = a % 24;
                     {
-                        if (a == 1)
+                        if (a==0)
+                        {
+                            e = c*25 ;
+                            Console.WriteLine("Toplam" + e + " Tl");
+                        }
+                        else if (a == 1)
                         {
                             e = c * 25 + 6;
                             Console.WriteLine("Toplam" + e + "Tl");
