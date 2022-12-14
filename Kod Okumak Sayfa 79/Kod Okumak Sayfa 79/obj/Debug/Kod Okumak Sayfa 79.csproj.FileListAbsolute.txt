@@ -1,0 +1,8 @@
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Kod Okumak Sayfa 79\Kod Okumak Sayfa 79\obj\Debug\Kod Okumak Sayfa 79.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Kod Okumak Sayfa 79\Kod Okumak Sayfa 79\obj\Debug\Kod Okumak Sayfa 79.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Kod Okumak Sayfa 79\Kod Okumak Sayfa 79\obj\Debug\Kod Okumak Sayfa 79.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Kod Okumak Sayfa 79\Kod Okumak Sayfa 79\bin\Debug\Kod Okumak Sayfa 79.exe.config
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Kod Okumak Sayfa 79\Kod Okumak Sayfa 79\bin\Debug\Kod Okumak Sayfa 79.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Kod Okumak Sayfa 79\Kod Okumak Sayfa 79\bin\Debug\Kod Okumak Sayfa 79.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Kod Okumak Sayfa 79\Kod Okumak Sayfa 79\obj\Debug\Kod Okumak Sayfa 79.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Kod Okumak Sayfa 79\Kod Okumak Sayfa 79\obj\Debug\Kod Okumak Sayfa 79.pdb
