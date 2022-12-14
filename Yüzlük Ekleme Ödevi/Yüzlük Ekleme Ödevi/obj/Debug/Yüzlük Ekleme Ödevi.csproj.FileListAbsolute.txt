@@ -1,0 +1,8 @@
+C:\Users\UĞUR\Desktop\Visuallerim\Yüzlük Ekleme Ödevi\Yüzlük Ekleme Ödevi\bin\Debug\Yüzlük Ekleme Ödevi.exe.config
+C:\Users\UĞUR\Desktop\Visuallerim\Yüzlük Ekleme Ödevi\Yüzlük Ekleme Ödevi\bin\Debug\Yüzlük Ekleme Ödevi.exe
+C:\Users\UĞUR\Desktop\Visuallerim\Yüzlük Ekleme Ödevi\Yüzlük Ekleme Ödevi\bin\Debug\Yüzlük Ekleme Ödevi.pdb
+C:\Users\UĞUR\Desktop\Visuallerim\Yüzlük Ekleme Ödevi\Yüzlük Ekleme Ödevi\obj\Debug\Yüzlük Ekleme Ödevi.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Yüzlük Ekleme Ödevi\Yüzlük Ekleme Ödevi\obj\Debug\Yüzlük Ekleme Ödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Yüzlük Ekleme Ödevi\Yüzlük Ekleme Ödevi\obj\Debug\Yüzlük Ekleme Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Yüzlük Ekleme Ödevi\Yüzlük Ekleme Ödevi\obj\Debug\Yüzlük Ekleme Ödevi.exe
+C:\Users\UĞUR\Desktop\Visuallerim\Yüzlük Ekleme Ödevi\Yüzlük Ekleme Ödevi\obj\Debug\Yüzlük Ekleme Ödevi.pdb
