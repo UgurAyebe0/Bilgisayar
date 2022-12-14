@@ -1,0 +1,8 @@
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 84 Ödev\Sayfa 84 Ödev\bin\Debug\Sayfa 84 Ödev.exe.config
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 84 Ödev\Sayfa 84 Ödev\bin\Debug\Sayfa 84 Ödev.exe
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 84 Ödev\Sayfa 84 Ödev\bin\Debug\Sayfa 84 Ödev.pdb
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 84 Ödev\Sayfa 84 Ödev\obj\Debug\Sayfa 84 Ödev.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 84 Ödev\Sayfa 84 Ödev\obj\Debug\Sayfa 84 Ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 84 Ödev\Sayfa 84 Ödev\obj\Debug\Sayfa 84 Ödev.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 84 Ödev\Sayfa 84 Ödev\obj\Debug\Sayfa 84 Ödev.exe
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 84 Ödev\Sayfa 84 Ödev\obj\Debug\Sayfa 84 Ödev.pdb
