@@ -1,0 +1,8 @@
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 89 Ödevler 1\Sayfa 89 Ödevler 1\obj\Debug\Sayfa 89 Ödevler 1.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 89 Ödevler 1\Sayfa 89 Ödevler 1\obj\Debug\Sayfa 89 Ödevler 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 89 Ödevler 1\Sayfa 89 Ödevler 1\obj\Debug\Sayfa 89 Ödevler 1.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 89 Ödevler 1\Sayfa 89 Ödevler 1\bin\Debug\Sayfa 89 Ödevler 1.exe.config
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 89 Ödevler 1\Sayfa 89 Ödevler 1\bin\Debug\Sayfa 89 Ödevler 1.exe
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 89 Ödevler 1\Sayfa 89 Ödevler 1\bin\Debug\Sayfa 89 Ödevler 1.pdb
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 89 Ödevler 1\Sayfa 89 Ödevler 1\obj\Debug\Sayfa 89 Ödevler 1.exe
+C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 89 Ödevler 1\Sayfa 89 Ödevler 1\obj\Debug\Sayfa 89 Ödevler 1.pdb
