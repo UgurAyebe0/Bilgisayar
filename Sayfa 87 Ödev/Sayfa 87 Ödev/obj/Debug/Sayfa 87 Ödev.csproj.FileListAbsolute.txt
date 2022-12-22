@@ -6,3 +6,11 @@ C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa
 C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa 87 Ödev.csproj.CoreCompileInputs.cache
 C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa 87 Ödev.exe
 C:\Users\UĞUR\Desktop\Visuallerim\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa 87 Ödev.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Sayfa 87 Ödev\Sayfa 87 Ödev\bin\Debug\Sayfa 87 Ödev.exe.config
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Sayfa 87 Ödev\Sayfa 87 Ödev\bin\Debug\Sayfa 87 Ödev.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Sayfa 87 Ödev\Sayfa 87 Ödev\bin\Debug\Sayfa 87 Ödev.pdb
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa 87 Ödev.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa 87 Ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa 87 Ödev.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa 87 Ödev.exe
+C:\Users\UĞUR\Desktop\GitHub\Bilgisayar\Sayfa 87 Ödev\Sayfa 87 Ödev\obj\Debug\Sayfa 87 Ödev.pdb
