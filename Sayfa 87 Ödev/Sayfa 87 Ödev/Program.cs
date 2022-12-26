@@ -10,6 +10,7 @@ namespace or211
             int c, EnBuyuk = 0, yer = 0;
             String[] A = { "Emin", "Emir", "İclal", "Bekir", "Cem", "Arda", "Kaan", "Metin", "Can", "Ramiz" };
             int[] B = { 56, 78, 95, 23, 95, 87, 61, 77, 45, 33 };
+            Console.WriteLine("En Yüksek Notu Alan Kişi:");
             for (c = 0; c <= B.Length - 1; c++)
             {
                 for (c = 0; c <= B.Length - 1; c++)
@@ -22,11 +23,11 @@ namespace or211
                 }
                 if (yer != 0)
                 {
-                    Console.WriteLine("En Yüksek Notu Alan Kişi: " + A[(yer)]);
+                    Console.WriteLine(A[(yer)]);
                     B[yer] = 0;
                     yer = 0;
                     c = 0;
-                } 
+                }
             }
             Console.ReadKey(true);
         }
