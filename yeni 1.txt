@@ -1,0 +1,14 @@
+Ödev.
+
+1 dizi oluşturun. (int) 
+	
+
+	Dizinin kaç tane karakteri olduğunu yazin
+	Dizinin sayıları dişarıdan girilsin
+	Diziden kaçıncı index istediğini sorun 
+	Diziden icinden karakter araması yapmasını isteyin.
+	Dizinin tüm elemanlarını topla
+	Dizide 5e tam bölünebilenleride bul
+	Dizideki elemanlar rastgele 
+	Diziyi Büyükten Küçüğe Sırala
+	3 Boyutlu Martis Gir
