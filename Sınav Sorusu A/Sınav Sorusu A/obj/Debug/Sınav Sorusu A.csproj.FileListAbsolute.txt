@@ -1,0 +1,8 @@
+C:\Users\UĞUR\Desktop\Visuallerim\Sınav Sorusu A\Sınav Sorusu A\bin\Debug\Sınav Sorusu A.exe.config
+C:\Users\UĞUR\Desktop\Visuallerim\Sınav Sorusu A\Sınav Sorusu A\bin\Debug\Sınav Sorusu A.exe
+C:\Users\UĞUR\Desktop\Visuallerim\Sınav Sorusu A\Sınav Sorusu A\bin\Debug\Sınav Sorusu A.pdb
+C:\Users\UĞUR\Desktop\Visuallerim\Sınav Sorusu A\Sınav Sorusu A\obj\Debug\Sınav Sorusu A.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sınav Sorusu A\Sınav Sorusu A\obj\Debug\Sınav Sorusu A.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sınav Sorusu A\Sınav Sorusu A\obj\Debug\Sınav Sorusu A.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\Visuallerim\Sınav Sorusu A\Sınav Sorusu A\obj\Debug\Sınav Sorusu A.exe
+C:\Users\UĞUR\Desktop\Visuallerim\Sınav Sorusu A\Sınav Sorusu A\obj\Debug\Sınav Sorusu A.pdb
