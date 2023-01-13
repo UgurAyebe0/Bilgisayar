@@ -1,0 +1,8 @@
+C:\Users\UĞUR\Desktop\GitHup\Sınav Sorusu B\Sınav Sorusu B\bin\Debug\Sınav Sorusu B.exe.config
+C:\Users\UĞUR\Desktop\GitHup\Sınav Sorusu B\Sınav Sorusu B\bin\Debug\Sınav Sorusu B.exe
+C:\Users\UĞUR\Desktop\GitHup\Sınav Sorusu B\Sınav Sorusu B\bin\Debug\Sınav Sorusu B.pdb
+C:\Users\UĞUR\Desktop\GitHup\Sınav Sorusu B\Sınav Sorusu B\obj\Debug\Sınav Sorusu B.csproj.AssemblyReference.cache
+C:\Users\UĞUR\Desktop\GitHup\Sınav Sorusu B\Sınav Sorusu B\obj\Debug\Sınav Sorusu B.csproj.SuggestedBindingRedirects.cache
+C:\Users\UĞUR\Desktop\GitHup\Sınav Sorusu B\Sınav Sorusu B\obj\Debug\Sınav Sorusu B.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\GitHup\Sınav Sorusu B\Sınav Sorusu B\obj\Debug\Sınav Sorusu B.exe
+C:\Users\UĞUR\Desktop\GitHup\Sınav Sorusu B\Sınav Sorusu B\obj\Debug\Sınav Sorusu B.pdb
