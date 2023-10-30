@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,68 +6,37 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
+    // 1 Gün 25 Tl
+    // ilk 2 saat 6 Tl
+    // Kalan saatler 2 Saat
     internal class Program
     {
         static void Main(string[] args)
         {
-            int a, b, c, e;
-        Baş:
-            {
-                Console.WriteLine("Kaç saat girdiğinizi yazın");
-                a = Convert.ToInt32(Console.ReadLine());
-            }
-            if (a <= 0)
-            {
-                goto Baş;
-            }
-            else
-            {
-                if (a == 1)
-                {
-                    Console.WriteLine("6 Tl ödeme sağlamanız lazım.");
-                }
-                else if (a >= 2 && a <= 8)
-                {
-                    a = a - 1;
-                    b = 6 + (a * 2);
-                    Console.WriteLine("Toplam" + b + "Tl");
-                }
-                else if (a >= 9 && a <= 24)
-                {
-                    Console.WriteLine("Toplam 25 Tl");
-                }
-                else
-                {
-                    c = a / 24;
-                    a = a % 24;
-                    {
-                        if (a==0)
-                        {
-                            e = c*25 ;
-                            Console.WriteLine("Toplam" + e + " Tl");
-                        }
-                        else if (a == 1)
-                        {
-                            e = c * 25 + 6;
-                            Console.WriteLine("Toplam" + e + "Tl");
-                        }
-                        else if (a >= 2 && a <= 8)
-                        {
-                            a = a - 1;
-                            e = c * 25 + 6 + (a * 2);
-                            Console.WriteLine("Toplam" + e + "Tl");
-                        }
-                        else if (a >= 9 && a <= 24)
-                        {
-                            e = (c * 25) + 25;
-                            Console.WriteLine("Toplam" + e + "Tl");
-                        }
-                    }
-                }
+            int girilen_saat;
+            int hesaplanan_gün;
+            int hesaplanan_saat;
+            int ödeme = 0;
+            Console.WriteLine("Kaç saat girdiğinizi yazın");
+            girilen_saat = Convert.ToInt16(Console.ReadLine());
 
+            hesaplanan_gün = girilen_saat / 24;
+            hesaplanan_saat = girilen_saat % 24;
+
+            if (hesaplanan_saat <= 2)
+            {
+                ödeme = (hesaplanan_gün * 25) + 6;
             }
-            goto Baş; //bug varmı diye hızlı bakmak istedim =)
+            if (hesaplanan_saat >=2 && hesaplanan_saat <= 8)
+            {
+                hesaplanan_saat = hesaplanan_saat - 2;
+                ödeme = (hesaplanan_gün * 25) + 6 + (hesaplanan_saat * 2);
+            }
+            if (hesaplanan_saat > 8)
+            {
+                ödeme = (hesaplanan_gün + 1) * 25;
+            }
+            Console.WriteLine("{0} Plakalı aracınız için yapacağınız ödeme {1} TL", ödeme);
         }
     }
 }
-
