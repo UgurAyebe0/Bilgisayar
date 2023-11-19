@@ -40,3 +40,31 @@ namespace ConsoleApp4
         }
     }
 }
+
+
+/*
+public class Main {
+    public static void main(String[] args) {
+
+        int girilensaat = 25;
+        int hesaplanansaat = girilensaat % 24; // 2
+        int hesaplanangün = girilensaat / 24;
+        int ödeme = 0;
+
+        while (hesaplanansaat > 7) {
+            ödeme = hesaplanangün * 25 + 25;
+            hesaplanansaat = 0;
+        }
+        while (hesaplanansaat > 2) {
+            ödeme += 2;
+            hesaplanansaat -= 1;
+        }
+        while (hesaplanansaat > 0) {
+            ödeme += 6;
+            hesaplanansaat -= 2;
+        }
+        ödeme = ödeme + hesaplanangün * 25;
+        System.out.println("Yapacağınız ödeme: " + ödeme);
+    }
+}
+*/
